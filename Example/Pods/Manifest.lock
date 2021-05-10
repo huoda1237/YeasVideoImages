@@ -10,7 +10,7 @@ PODS:
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - Specta (1.0.7)
-  - YeasVideoImages (0.1.2)
+  - YeasVideoImages (0.1.3)
 
 DEPENDENCIES:
   - Expecta
@@ -35,7 +35,7 @@ SPEC CHECKSUMS:
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
-  YeasVideoImages: d74a59b396a20f8ae5ef9cacd05718d44978b0d4
+  YeasVideoImages: 54e3990ac86e9406fa20d4fbc4972acd990ace2a
 
 PODFILE CHECKSUM: 147a95cfeeaa03fd3a0f8e40df74b00a07f0d0d8
 
