@@ -37,12 +37,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		03CC3B20EB2F66BCB04C61FC /* YeasVideoImages.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = YeasVideoImages.podspec; path = ../YeasVideoImages.podspec; sourceTree = "<group>"; };
+		03CC3B20EB2F66BCB04C61FC /* YeasVideoImages.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YeasVideoImages.podspec; path = ../YeasVideoImages.podspec; sourceTree = "<group>"; };
 		0B9E0DE314AD75793EE27D7C /* Pods-YeasVideoImages_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YeasVideoImages_Tests.debug.xcconfig"; path = "Target Support Files/Pods-YeasVideoImages_Tests/Pods-YeasVideoImages_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		13C16D6B12DC48887738757E /* Pods_YeasVideoImages_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YeasVideoImages_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2654B0E5520AAE6E0CF6FB89 /* Pods-YeasVideoImages_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YeasVideoImages_Example.debug.xcconfig"; path = "Target Support Files/Pods-YeasVideoImages_Example/Pods-YeasVideoImages_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		47B41820C5D6ADEF1DCAFDCE /* Pods_YeasVideoImages_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YeasVideoImages_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		52803A6E742F1248ABC8D464 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		52803A6E742F1248ABC8D464 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* YeasVideoImages_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YeasVideoImages_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -64,7 +64,7 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8CCAA2A2E76C22F0150DD290 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		8CCAA2A2E76C22F0150DD290 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		E80A6F0690CC38041B8B0231 /* Pods-YeasVideoImages_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YeasVideoImages_Tests.release.xcconfig"; path = "Target Support Files/Pods-YeasVideoImages_Tests/Pods-YeasVideoImages_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		F70344BA9A16F3923AEDFD9F /* Pods-YeasVideoImages_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YeasVideoImages_Example.release.xcconfig"; path = "Target Support Files/Pods-YeasVideoImages_Example/Pods-YeasVideoImages_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -103,7 +103,6 @@
 				0B9E0DE314AD75793EE27D7C /* Pods-YeasVideoImages_Tests.debug.xcconfig */,
 				E80A6F0690CC38041B8B0231 /* Pods-YeasVideoImages_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -259,6 +258,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
