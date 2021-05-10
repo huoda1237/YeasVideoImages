@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "UIImage+camera.h"
 
 FOUNDATION_EXPORT double YeasVideoImagesVersionNumber;
 FOUNDATION_EXPORT const unsigned char YeasVideoImagesVersionString[];
