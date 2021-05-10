@@ -1,0 +1,6 @@
+framework module Pods_YeasVideoImages_Tests {
+  umbrella header "Pods-YeasVideoImages_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

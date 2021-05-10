@@ -1,0 +1,6 @@
+framework module YeasVideoImages {
+  umbrella header "YeasVideoImages-umbrella.h"
+
+  export *
+  module * { export * }
+}
